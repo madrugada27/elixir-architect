@@ -1,0 +1,11 @@
+{
+  "name": "elixir-architect",
+  "version": "1.0.0",
+  "description": "Elixir/Phoenix architecture and design patterns skill for Claude Code - creates comprehensive project documentation, ADRs, guardrails, and handoff docs",
+  "author": "maxim-ist",
+  "repository": "https://github.com/maxim-ist/elixir-architect",
+  "license": "MIT",
+  "skills": [
+    "skills/elixir-architect"
+  ]
+}
