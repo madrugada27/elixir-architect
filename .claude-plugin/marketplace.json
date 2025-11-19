@@ -1,0 +1,77 @@
+{
+    "name": "elixir-architect",
+    "version": "1.0.0",
+    "description": "Expert Elixir/OTP system architect for designing production-ready applications with comprehensive documentation, supervision trees, Ash Framework resources, and AI collaboration handoffs",
+    "author": "github.com/borag",
+    "license": "MIT",
+    "homepage": "https://github.com/maxim-ist/elixir-architect",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxim-ist/elixir-architect.git"
+    },
+    "keywords": [
+        "elixir",
+        "phoenix",
+        "otp",
+        "architecture",
+        "ash-framework",
+        "supervision-tree",
+        "oban",
+        "system-design",
+        "documentation",
+        "ai-collaboration",
+        "director-implementor",
+        "functional-programming",
+        "genserver",
+        "ecto",
+        "multi-app"
+    ],
+    "main": "SKILL.md",
+    "claudeCode": {
+        "minVersion": "0.1.0",
+        "triggers": [
+            "design elixir application",
+            "architect phoenix project",
+            "create elixir documentation",
+            "plan OTP supervision tree",
+            "define ash resources",
+            "structure multi-app project",
+            "create ADR",
+            "architecture decision record",
+            "elixir project structure",
+            "prepare handoff documentation",
+            "director implementor workflow",
+            "ash framework design",
+            "oban workers",
+            "genserver architecture",
+            "elixir best practices",
+            "dave thomas structure",
+            "path-based dependencies"
+        ],
+        "categories": [
+            "architecture",
+            "design",
+            "documentation",
+            "elixir",
+            "best-practices"
+        ]
+    },
+    "capabilities": {
+        "domains": [
+            "task-management",
+            "financial-systems",
+            "e-commerce",
+            "saas-platforms"
+        ],
+        "frameworks": ["Ash Framework", "Phoenix", "Oban", "Ecto"],
+        "outputs": [
+            "architecture-documentation",
+            "supervision-trees",
+            "domain-models",
+            "implementation-plans",
+            "guardrails",
+            "adr-documents"
+        ]
+    },
+    "requirements": { "elixir": ">=1.17", "otp": ">=27" }
+}
