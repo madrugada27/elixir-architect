@@ -1,0 +1,45 @@
+{
+    "name": "elixir-architect",
+    "version": "1.0.0",
+    "owner": {
+        "name": "maxim-ist",
+        "email": "[email protected]"
+    },
+    "description": "Expert Elixir/OTP system architect for designing production-ready applications with comprehensive documentation, supervision trees, Ash Framework resources, and AI collaboration handoffs",
+    "author": {
+        "name": "borag",
+        "url": "https://github.com/borag"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/maxim-ist/elixir-architect",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxim-ist/elixir-architect.git"
+    },
+    "keywords": [
+        "elixir",
+        "phoenix",
+        "otp",
+        "architecture",
+        "ash-framework",
+        "supervision-tree",
+        "oban",
+        "system-design",
+        "documentation",
+        "ai-collaboration",
+        "director-implementor",
+        "functional-programming",
+        "genserver",
+        "ecto",
+        "multi-app",
+        "adr",
+        "tdd",
+        "dave-thomas"
+    ],
+    "plugins": [
+        {
+            "name": "elixir-architect",
+            "source": "./skills/elixir-architect"
+        }
+    ]
+}
